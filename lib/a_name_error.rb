@@ -1,3 +1,5 @@
 puts "hello world"
 
-hello_world puts "hello world"
+def hello_world do
+  puts "hello world"
+end
